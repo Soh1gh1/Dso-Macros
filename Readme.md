@@ -43,7 +43,7 @@ Automation macro for **Drakensang Online** built on **AutoHotkey v1**.
 - **Swaps ON/OFF**
   - Enables or disables **Swap** and **Skill Swap** hotkeys globally.
 
-![Main GUI](screenshot1.png)
+![Main GUI](Screenshot1.png)
 
 ---
 
@@ -65,7 +65,7 @@ Automation macro for **Drakensang Online** built on **AutoHotkey v1**.
 Notes:
 - If the game UI feels inconsistent, increase timing values in **TIMINGS**.
 
-![Swap Settings](screenshot2.png)
+![Swap Settings](Screenshot2.png)
 
 ---
 
@@ -100,7 +100,7 @@ How it runs:
 6. (Optional) switch back to main skillbar
 7. Open inventory and swap back (restore original setup)
 
-![Skill Swap Settings](screenshot3.png)
+![Skill Swap Settings](Screenshot3.png)
 
 ---
 
@@ -128,7 +128,7 @@ These values control macro stability. If you experience missed clicks, wrong slo
   - Delay after casting the skill before starting the “swap back” phase.
   - Recommended starting point: **20 ms**.
 
-![Timings](screenshot4.png)
+![Timings](Screenshot4.png)
 
 ---
 
@@ -167,15 +167,15 @@ These values control macro stability. If you experience missed clicks, wrong slo
   - Gap between clicks for double-click actions (equip/unequip).
   - Recommended: **20 ms** (increase if double-clicks are not recognized).
 
-![Automount Settings](screenshot5.png)
+![Automount Settings](Screenshot5.png)
 
 ## Coordinates settings
 
-![Coordinates Settings](screenshot6.png)
+![Coordinates Settings](Screenshot6.png)
 
 ### (1920x1080) 1080P PRESET ↓
 
-![Coordinates Settings](screenshot7.png)
+![Coordinates Settings](Screenshot7.png)
 
 ## Notes & Best Practices
 
