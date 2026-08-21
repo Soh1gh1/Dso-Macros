@@ -1,6 +1,6 @@
 # Drakensang Macro
 
-Automation macro for **Drakensang Online** built on **AutoHotkey v1**.
+Automation macro for **Drakensang Online** built on **Python**.
 
 **Discord: Basakennn**
 
